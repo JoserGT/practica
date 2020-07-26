@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hola Soy Jose,esta es un archivo para ver cuanto se
 Ya pude crear mi repositorio y ramas
+=======
+hola esta es un archivo para ver cuanto se
+Ya pude crear mi repositorio y ramas y los estoy modificando
+>>>>>>> tarde
 estoy navegando entre ramas 
 Esto esta siendo muy didactico 
